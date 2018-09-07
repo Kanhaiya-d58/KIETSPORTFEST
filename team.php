@@ -1,3 +1,7 @@
+<!--
+Author: Kanhaiya Ji
+Author URL: http://kanhaiyaagnihotri.in
+-->
 <!DOCTYPE html>
 <?php
 	include('header.php');
